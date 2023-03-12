@@ -1,5 +1,5 @@
 # Selenium-Chromedriver-only-shows-data-WebSocket-Listener-onError
-Selenium Chromedriver only shows 'data'
+Try this code.
 
 
 
